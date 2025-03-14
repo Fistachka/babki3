@@ -1,34 +1,32 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![4 зас](https://github.com/user-attachments/assets/67ed7a25-e908-4752-ab46-80beff64b219)
+![5 зас](https://github.com/user-attachments/assets/6e308684-b952-47b4-837e-ee3553a984fd)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/1_Hc1T6KXvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Шла лесною стороной,
-Увязался чёрт за мной,
-Думала мужчина,
-Что за чертовщина.
+Самый вредный из людей
+Это сказочник-злодей,
+Вот уж врун искуссный,
+Жаль что он не вкусный.
 
-Повернула я домой,
-Снова чёрт идет за мной,
-Плюнула на плешь ему
-И послала к лешему.
-
-<br><br>
+Растяни меха, гармошка,
+Эх, играй-наяривай,
+Пой частушки, бабка Ёжка,
+Пой не разговаривай.<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![4 зас](https://github.com/user-attachments/assets/67ed7a25-e908-4752-ab46-80beff64b219)
+![5 зас](https://github.com/user-attachments/assets/6e308684-b952-47b4-837e-ee3553a984fd)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/Dnn6kAG2SzU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-SHla lesnoyu storonoj,
-Uvyazalsya chyort za mnoj,
-Dumala muzhchina,
-CHto za chertovshchina.
+Samyj vrednyj iz lyudej
+Eto skazochnik-zlodej,
+Vot uzh vrun iskussnyj,
+ZHal' chto on ne vkusnyj.
 
-Povernula ya domoj,
-Snova chyort idet za mnoj,
-Plyunula na plesh' emu
-I poslala k leshemu.<br><br>
+Rastyani mekha, garmoshka,
+Ekh, igraj-nayarivaj,
+Poj chastushki, babka YOzhka,
+Poj ne razgovarivaj.<br><br>
 
