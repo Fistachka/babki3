@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>babki3</repo>
-  <version>v1.0.9</version>
+  <version>v1.0.10</version>
   <next number="1" owner="Fistachka" repo="babkiweb1"/>
   <readme>
-    <ru>9d7a2180cf3dfebeab0a115993328a98a7f228586398e1d8c37b6712b39a863c</ru>
-    <en>714192988b2acc6beffe7561b1dcc550edd948ac70a2986df2917881e1e971e2</en>
+    <ru>72bb7aaaaa91f67ee119db1c9d56086ad47504aa52634793c1365d2c06e1af76</ru>
+    <en>7ab0f0de6bc8c91d1e2f3fe2bd21fca2f6a3ce79c701ba4c2d7d6c91166823d2</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -14,7 +14,7 @@
     <bpm>147</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>1</tonalities>
-    <video name="17t.mp4" size="912384" type="video/mp4" volume="0.5">ec82b03f60d2cd8ff12abbe40492337a96fc930cda67c8b46f1edad7f213a70c</video>
+    <video name="17t.mp4" size="912384" type="video/mp4" volume="0.5">8e84e1c0a2adad501adfbcb01a3aa8e942f4756bad07b7ada1aeb99ce86a6728</video>
     <notes>
       <note number="1" values="38" ticks="40" durationTicks="37" ppq="96" velocity="0.843"/>
       <note number="2" values="38" ticks="89" durationTicks="45" ppq="96" velocity="0.906"/>
